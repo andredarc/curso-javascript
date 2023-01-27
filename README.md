@@ -2,8 +2,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/html-%236DB33F.svg?style=for-the-badge&logo=html&logoColor=white"/>
-<img src="https://icons8.com.br/icon/21278/css3"/>
+<img src="https://img.shields.io/badge/html-%658GB12C.svg?style=for-the-badge&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-4682B4.svg?style=for-the-badge&logo=css&logoColor=white"/>
 </p>
 
 <p align="center">
